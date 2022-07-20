@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Edwars3
 - 👀 I’m interested in learning more about developing
-- 🌱 I’m currently learning Python, Html, CSS and JavaScript
-- 💞️ I’m looking to collaborate on any project in Python
+- 🌱 I’m currently learning Python, Html, CSS, Javascript, NodeJs,MongoDB
+- 💞️ I’m looking to collaborate on any project in Python, NodeJs, MongoDb
 - 📫 edwarsrr@gmail.com
 
 <!---
